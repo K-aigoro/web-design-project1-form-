@@ -1,0 +1,60 @@
+body {
+    background-image: url(images\ \(3\).jpeg );
+}
+
+.link {
+    background-color: wheat;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 10%;
+    border-radius: 10px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+h2 {
+    padding-top: 30px;
+    font-family: serif;
+}
+
+input[type=email],
+input[type=password] {
+    border-radius: 7px;
+    padding: 10px;
+    height: 5px;
+    width: 50%;
+}
+
+.lag {
+    padding-right: 45%;
+}
+
+.log {
+    padding-right: 50%;
+}
+
+.me {
+    border-radius: 12px;
+    height: 27px;
+    width: 50%;
+    color: black;
+    background-color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+.me:hover {
+    background-color: darkgreen;
+}
+
+a {
+    text-decoration: underline;
+}
+
+img {
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 3px;
+    border: 5px solid white;
+}
